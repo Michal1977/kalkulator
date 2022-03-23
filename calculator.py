@@ -27,3 +27,4 @@ if action == 4:
     wynik = (number1)/(number2)
     logging.info(f"Dzielę:", number1, number2)
     print("Wynik to:", round(wynik,2))
+
